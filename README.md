@@ -1,0 +1,2 @@
+# cfg
+CSGO cfg backup
